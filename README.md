@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Rafał
 
-<!--
-**Rafal5671/Rafal5671** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 👨‍💻  
+I'm passionate about programming and creating web and mobile applications. Here you can find projects showcasing my skills across different technologies — from frontend to backend.
 
-Here are some ideas to get you started:
+## 🚀 What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building practical applications that can be used in real life — both for learning and hobby projects.
+
+## 💼 Selected Projects
+
+Here are some of my projects you might want to check out:
+
+- [**BookShopFrontEnd**](https://github.com/Rafal5671/BookShopFrontEnd) – frontend of a bookstore app (Next.js/TypeScript)  
+- [**BookShopBackEnd**](https://github.com/Rafal5671/BookshopBackEnd) – backend of a bookstore app (Java/Spring Boot)  
+- [**OnlineStoreApp**](https://github.com/Rafal5671/OnlineStoreApp) – online store (React/TypeScript)  
+- [**WeatherApp**](https://github.com/Rafal5671/WeatherApp) – weather application in Kotlin  
+- [**CalculatorApp**](https://github.com/Rafal5671/KalkulatorApp) – calculator app in Kotlin
+  
+*(Click on the project names to explore the repositories 😊)*
+
+## 🛠️ Tech Stack
+
+I work with a variety of languages and tools, including:
+
+- **React**, **JavaScript**, **TypeScript**  
+- **Kotlin**, **Java**, **Python**  
+- Frontend and Backend development
+
+## 📫 Contact
+
+Feel free to reach out for collaborations or just to talk about coding! 😄
